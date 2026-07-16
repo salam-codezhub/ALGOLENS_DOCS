@@ -1,0 +1,6 @@
+{
+  "name": "@algolens/documentation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Documentation and report generation (Markdown, HTML, PDF)."
+}
