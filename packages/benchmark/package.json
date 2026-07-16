@@ -1,0 +1,6 @@
+{
+  "name": "@algolens/benchmark",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Benchmark execution and measured-runtime engine."
+}
