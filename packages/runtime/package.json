@@ -1,0 +1,6 @@
+{
+  "name": "@algolens/runtime",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Runtime estimation engine (estimated vs. measured runtime)."
+}
