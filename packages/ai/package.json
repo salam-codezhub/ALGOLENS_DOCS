@@ -1,0 +1,6 @@
+{
+  "name": "@algolens/ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Provider-agnostic AI integration layer (Claude, OpenAI, Gemini, DeepSeek, Qwen)."
+}
